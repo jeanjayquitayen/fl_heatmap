@@ -72,6 +72,7 @@ class _MyAppState extends State<MyApp> {
       columns: columns,
       radius: 6.0,
       items: items,
+      colorPalette: colorPaletteTemperature,
     );
   }
 
